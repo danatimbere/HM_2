@@ -17,6 +17,11 @@
     background-color: rgb(92, 88, 83);
 }
 
+    .logo {
+            width: 25%;
+            background-color: rgb(92, 88, 83);
+            text-align: left;
+        }
 .menu-cont {
     grid-area: menu;
     background-color: rgb(122, 133, 133);
