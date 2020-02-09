@@ -25,7 +25,6 @@
 .menu-cont {
     width: 200px;
     grid-area: menu;
-    padding: 12px;
     /*grid grid-row-start: 5;*/
     text-align: right;
     color: black;
