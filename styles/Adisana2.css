@@ -25,6 +25,7 @@
 .menu-cont {
     width: 200px;
     grid-area: menu;
+    padding: 12px;
     /*grid grid-row-start: 5;*/
     text-align: right;
     color: black;
@@ -32,7 +33,7 @@
     background-color: rgb(122, 133, 133);
 }
 
-ul {
+ul a {
     text-align: left;
     line-height: 2.0;
     list-style-type: none;
