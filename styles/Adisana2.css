@@ -29,6 +29,10 @@
     font-size: 18px;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .main-cont {
     grid-area: main;
     background-color: rgb(121, 113, 103);
