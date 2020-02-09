@@ -23,11 +23,13 @@
             text-align: left;
         }
 .menu-cont {
+    width: 200px;
     grid-area: menu;
     /*grid grid-row-start: 5;*/
     text-align: right;
+    color: black;
+    display: block;
     background-color: rgb(122, 133, 133);
-    
 }
 
 ul {
@@ -57,7 +59,7 @@ li a {
   }
   
 a:hover {
-    background-color: rgb(24, 4, 4);
+    background-color: rgb(182, 173, 173);
 }
 
 .main-cont {
