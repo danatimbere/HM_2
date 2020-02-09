@@ -26,13 +26,17 @@
     grid-area: menu;
     grid grid-row-start: 2; 
     background-color: rgb(122, 133, 133);
-    font-size: 18px;
+    
 }
 
 ul {
+    text-align: left;
+    line-height: 1,5;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    font-size: 18px;
+
 }
 
 .main-cont {
@@ -51,7 +55,7 @@ ul {
 }
 
 main {
-    width: 75%;
+    width: 70%;
     height: 30%;
     align-self: center;
 }
