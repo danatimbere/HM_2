@@ -36,10 +36,27 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
     font-size: 16px;
+    background-color: yellow;
 
 }
 
+li {
+    float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14 px 16px;
+text-decoration: none;
+}
+
+li a:hover (
+    background-color: black;
+)
 .main-cont {
     grid-area: main;
     background-color: rgb(121, 113, 103);
