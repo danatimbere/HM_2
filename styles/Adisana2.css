@@ -15,7 +15,7 @@
 .header-cont {
     grid-area: header;
     background-color: rgb(92, 88, 83);
-}
+    }
 
 .logo {
             max-width: 25%;
@@ -24,6 +24,7 @@
         }
 .menu-cont {
     grid-area: menu;
+    grid grid-row-start: 2; 
     background-color: rgb(122, 133, 133);
     font-size: 16px;
 }
