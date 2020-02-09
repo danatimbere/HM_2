@@ -40,22 +40,24 @@ ul {
     font-size: 16px;
     background-color: yellow;
 
+
 }
 
 li {
     float: left;
+    color: rgb(19, 17, 17);
 }
 
 li a {
 display: block;
-color: white;
+color: rgb(83, 22, 22);
 text-align: center;
-padding: 14 px 16px;
+padding: 30 px 40px;
 text-decoration: none;
 }
 
 li a:hover (
-    background-color: black;
+    background-color: white;
 )
 .main-cont {
     grid-area: main;
