@@ -38,7 +38,7 @@ ul {
     padding: 0;
     overflow: hidden;
     font-size: 16px;
-    background-color: yellow;
+    background-color: grey;
 
 
 }
@@ -48,8 +48,16 @@ li {
     color: rgb(19, 17, 17);
 }
 
+li a {
+    display: block;
+    color: rgb(61, 18, 18);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
 a:hover {
-    background-color: gray;
+    background-color: rgb(24, 4, 4);
 }
 
 .main-cont {
@@ -100,6 +108,6 @@ main {
             "header header header"
             "menu main ad"
             "footer footer ad";
-        background-color: rgb(99, 92, 92); /* was --> rgb(192, 180, 150);
+        background-color: rgb(99, 92, 92); /* was --> rgb(192, 180, 150);*/
     }
 }
